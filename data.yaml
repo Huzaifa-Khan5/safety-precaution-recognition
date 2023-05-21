@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/project/train/images
+val: /content/drive/MyDrive/project/val/images
+
+nc: 3
+names: ['helmet', 'glasses','headphones']
